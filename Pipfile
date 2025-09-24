@@ -9,6 +9,8 @@ torch = "*"
 pillow = "*"
 accelerate = "*"
 pandas = "*"
+torchvision = "*"
+torchsummary = "*"
 
 [dev-packages]
 ipykernel = "*"
